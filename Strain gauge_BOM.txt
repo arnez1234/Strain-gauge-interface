@@ -1,0 +1,7 @@
+Qty-1	Part References	Value	Package	Mfg Part Num	Mfg Name	VID	Vendor Part Num	Description	Type	Tolerance	Voltage Rating	Package	Value	Cost	Category	XREF
+1	"X-354"		MICROFIT-6-DUAL-RA-SMD-CLIP_RETENTION	43045-0615	Molex	DK	WM6688CT-ND	Micro-Fit header, 6pos, vertical, SMT, Press-Fit Retention, Tin Plating	Connector	*	*	*	*	*	*	REF76
+1	"IC6"		PW_(R-PDSO-G14)_(TSSOP-14)	TLV2764IPWR	Texas Instruments	NW	76C8534	IC, Quad Op-Amp, Single Supply Rail-Rail, 500 KHz, TSSOP-14	ICs, Op-Amps	*	3.6V	TSSOP-14	*	3.06	ICs	REF164
+6	"R1, R2, R4, R5, R6, R7"	1k	R0603	ERJ-3EKF1001V	Panasonic	NW	64R5308	Resistor, 1 kohm 100 mW, 1%, Thick Film, 0603	Resistor	1%	50V	603	1k ohm	0.012	Passives	REF225
+6	"R3, R8, R9, R22, R23, R24"	50k	R0603	ERA-3AEB562V	Panasonic	NW	08N2130	Resistor, 56k ohm, 63 mW, 0.1%, ﾕ_ﾱ25ppm/ﾕ_ﾼC, 0603	Resistor	0.10%	75V	603	56k ohm	*	*	REF260
+9	"R10, R11, R12, R14, R15, R16, R18, R19, R20"	300	R0603	ERJ-3GEYJ301V	Panasonic	DK	P300GCT-ND	Resistor, 300 ohm, 5% 0603	Resistor	5%	*	603	300 ohm	*	*	REF244
+3	"X-522, X-523, X-524"	DURACLIK-02	DURACLIK-02	502352-0200	Molex	NW	08R4876	Molex Dura-Clik Header, 2pos, RA, SMT	Connector	*	*	*	*	0.69	Connectors	REF79
